@@ -1,0 +1,13 @@
+<configuration>
+    <springProperty scope="context" name="SVC_NAME" source="spring.application.name" defaultValue="unknown"/>
+
+    <appender name="JSON_STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>{"ts":"%d{yyyy-MM-dd'T'HH:mm:ss.SSSXXX}","svc":"${SVC_NAME}","cid":"%X{cid:--}","event":"%replace(%replace(%msg){'[\r\n]+',' '}){'"','\\\"'}","ms":%X{ms:-0}}%nopex%n</pattern>
+        </encoder>
+    </appender>
+
+    <root level="INFO">
+        <appender-ref ref="JSON_STDOUT"/>
+    </root>
+</configuration>
