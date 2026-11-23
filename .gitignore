@@ -1,0 +1,8 @@
+IMDTravel/target/
+IMDTravel/HELP.md
+IMDTravel/.github/modernize/
+sales.jsonl
+.idea/
+*.iml
+.vscode/
+.DS_Store

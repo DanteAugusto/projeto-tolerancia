@@ -1,0 +1,20 @@
+spring:
+  main:
+    banner-mode: off
+  application:
+    name: imdtravel
+
+server:
+  port: ${PORT:8080}
+
+imdtravel:
+  sales:
+    file: ${IMDTRAVEL_SALES_FILE:/data/sales.jsonl}
+
+services:
+  airlines:
+    url: ${SERVICES_AIRLINES_URL:http://airlineshub:8080}
+  exchange:
+    url: ${SERVICES_EXCHANGE_URL:http://exchange:8080}
+  fidelity:
+    url: ${SERVICES_FIDELITY_URL:http://fidelity:8080}
