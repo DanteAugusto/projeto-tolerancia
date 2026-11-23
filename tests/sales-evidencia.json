@@ -1,0 +1,452 @@
+[
+  {
+    "correlationId": "r1795476337-cid-1",
+    "transactionId": "a77f6aeb-f4e1-4713-a519-c6214780e504",
+    "flight": "IMD100",
+    "day": "2026-12-01",
+    "user": "r1795476337-ana",
+    "valueUSD": 350.5,
+    "valueBRL": 1922.81,
+    "ts": "2026-11-23T23:26:18.467917966Z"
+  },
+  {
+    "correlationId": "88ad5fe3-0425-4c9a-8cfc-6ddd1d30d0a1",
+    "transactionId": "3eaf1155-cfce-4062-9192-ae3a325283a3",
+    "flight": "IMD100",
+    "day": "2026-12-01",
+    "user": "r1795476337-bia",
+    "valueUSD": 350.5,
+    "valueBRL": 1922.81,
+    "ts": "2026-11-23T23:26:20.494026801Z"
+  },
+  {
+    "correlationId": "e301ad9a-291b-4329-b23f-880475576739",
+    "transactionId": "f5bff3af-6662-4867-a049-a8fe1391fd95",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c17",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.100176699Z"
+  },
+  {
+    "correlationId": "267185c1-8fc3-4997-a1ab-ce59627a812d",
+    "transactionId": "ba01ce61-9a18-496b-91a1-11409e16e2f7",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c13",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.134249871Z"
+  },
+  {
+    "correlationId": "e051c5cc-9691-49f7-a955-e3cf64005d27",
+    "transactionId": "25a966a2-3b55-4029-8e0c-01735212f9e8",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c21",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.143950952Z"
+  },
+  {
+    "correlationId": "874840eb-f150-454b-af2b-128a86e0886f",
+    "transactionId": "a3d3a3fc-1496-4937-af0c-8b57346fab08",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c8",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.185703719Z"
+  },
+  {
+    "correlationId": "8ea90374-bdc0-436f-ba8a-dbef3e38de34",
+    "transactionId": "df9de8e3-2af8-4120-9e91-f9f138eb7420",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c4",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.192500787Z"
+  },
+  {
+    "correlationId": "e5cd1935-8e64-4a01-93af-d3d0430d09bd",
+    "transactionId": "e2337c10-2059-46ec-8277-c366130fc7e0",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c3",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.212813374Z"
+  },
+  {
+    "correlationId": "5d3cab82-258e-43f1-a114-1aeb8e83539d",
+    "transactionId": "940b45ee-a53c-4e9f-a754-f0a98a69677a",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c11",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.238696425Z"
+  },
+  {
+    "correlationId": "0a24775c-c780-4ff8-9dfb-a0a7bc0a613c",
+    "transactionId": "a60112b0-013a-4cfb-b6fe-de402a3571c6",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c9",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.249773099Z"
+  },
+  {
+    "correlationId": "e97c7296-a658-4df3-ad77-57b943e6b5f8",
+    "transactionId": "35c76c73-3efc-4922-b9fa-e913902c91d7",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c19",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.267281767Z"
+  },
+  {
+    "correlationId": "31969d87-bf9b-40de-be21-0f1708e55f80",
+    "transactionId": "72cc032a-139d-4a97-886e-fddf62e54404",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c5",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.327113366Z"
+  },
+  {
+    "correlationId": "5eae2a89-c4cf-4f2a-ab00-1aaae3e42864",
+    "transactionId": "88783447-09b5-4dc3-9936-06ae10a7651f",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c10",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.353546871Z"
+  },
+  {
+    "correlationId": "9f6b8dc5-68f9-4377-9c6d-d3928b7486cd",
+    "transactionId": "e80d9cd8-a5a5-4ddc-9e79-59dcb21f3f9c",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c7",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.357162055Z"
+  },
+  {
+    "correlationId": "8b4b9ab8-772d-4971-bce6-52e1472624ae",
+    "transactionId": "f641ec20-6e20-474b-9bc7-b3b9d8b617e9",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c12",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.358202353Z"
+  },
+  {
+    "correlationId": "1fa8616e-a8f5-4e02-ba6d-61b0c3451685",
+    "transactionId": "2bd6c303-68f2-4c4c-8c4a-2a64d3ee052b",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c15",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.390574085Z"
+  },
+  {
+    "correlationId": "b599c58c-0af4-4d37-9c17-dd6004258a79",
+    "transactionId": "084d0d6c-3ab7-45a4-a1e8-1dd10183cdf7",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c20",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.424953072Z"
+  },
+  {
+    "correlationId": "dbda38b1-3c0e-441f-b658-e2cdcb2878e2",
+    "transactionId": "3291fbd8-66d8-4657-871f-caaa5d9b57aa",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c18",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.426725457Z"
+  },
+  {
+    "correlationId": "62ea7faf-178a-4218-a774-3a9907b5e594",
+    "transactionId": "47eda854-320e-468f-a78a-45a166ee5968",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c2",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.437911106Z"
+  },
+  {
+    "correlationId": "e32f696d-6170-4707-8b75-69398f1d7bb0",
+    "transactionId": "e66ee163-fc66-4124-b00c-5097f2e4a515",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c23",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.530334888Z"
+  },
+  {
+    "correlationId": "83589878-0c70-43a5-9335-b8dd1d37cae3",
+    "transactionId": "020a97f1-a66b-4231-8e31-b4110f913243",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c6",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.534939576Z"
+  },
+  {
+    "correlationId": "f0471103-d60d-41ec-acb8-e11effb3c7ab",
+    "transactionId": "7aeda77a-0fb0-4e99-afdd-9eb2c2b1a9dd",
+    "flight": "IMD100",
+    "day": "2026-12-02",
+    "user": "r1795476337-c22",
+    "valueUSD": 362.75,
+    "valueBRL": 1990.01,
+    "ts": "2026-11-23T23:26:23.541988726Z"
+  },
+  {
+    "correlationId": "r1795476432-cid-1",
+    "transactionId": "62db7b81-a4b7-42d3-bc04-91f936644d3d",
+    "flight": "IMD100",
+    "day": "2026-12-01",
+    "user": "r1795476432-ana",
+    "valueUSD": 350.5,
+    "valueBRL": 1934.62,
+    "ts": "2026-11-23T23:27:15.105719261Z"
+  },
+  {
+    "correlationId": "e939d43c-3953-4e34-97a3-c72aef35eb1f",
+    "transactionId": "a78c3269-bf27-46e9-9dfd-acceb33271ca",
+    "flight": "IMD100",
+    "day": "2026-12-01",
+    "user": "r1795476432-bia",
+    "valueUSD": 350.5,
+    "valueBRL": 1935.11,
+    "ts": "2026-11-23T23:27:16.678673744Z"
+  },
+  {
+    "correlationId": "c6cbdd0a-33ff-483f-8106-ee857b561773",
+    "transactionId": "bfe335ee-fabb-48cc-afdb-a506553e933b",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c7",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.298532724Z"
+  },
+  {
+    "correlationId": "df9ca562-060c-4894-8619-e1b4b62513f9",
+    "transactionId": "7efea0d7-6208-4771-83e1-5ab60b58d0f7",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c11",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.351299036Z"
+  },
+  {
+    "correlationId": "e6240972-3054-464b-a7ce-2afc86d26956",
+    "transactionId": "c77e950d-a304-4dbb-a1ef-29dc426f626f",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c12",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.366889770Z"
+  },
+  {
+    "correlationId": "24cf38b4-b088-4949-b7e0-7298dc9bb39f",
+    "transactionId": "b2988318-efaf-4b9d-98ac-557fd0c15ead",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c1",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.400130584Z"
+  },
+  {
+    "correlationId": "8d4b37f7-c7b0-4ddb-9258-6e7b47d45a8d",
+    "transactionId": "3abc2ce8-fbb4-4147-9a63-3ccb62e8ded5",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c6",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.422031355Z"
+  },
+  {
+    "correlationId": "c7239017-db61-4b2f-841b-188e01d3d043",
+    "transactionId": "daa911ea-78dc-4130-940d-072f426eb2a4",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c10",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.451707954Z"
+  },
+  {
+    "correlationId": "43748305-6bdc-420b-8d4b-fd1c8cc7f00c",
+    "transactionId": "2aa3ca05-858c-47c1-9f0b-00ede071fffc",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c18",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.460919023Z"
+  },
+  {
+    "correlationId": "51586067-f817-4422-97f6-1a0c52b0e6f5",
+    "transactionId": "16fb1f2b-d9ab-4387-8772-42a7992cf3ba",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c24",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.464160558Z"
+  },
+  {
+    "correlationId": "a1f08b6b-fc57-4571-a57b-ea72a016c9b5",
+    "transactionId": "77274654-5a5b-4447-9239-38f7e3730107",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c23",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.482678543Z"
+  },
+  {
+    "correlationId": "682c96b2-83e6-4aef-84b8-16cf54659dae",
+    "transactionId": "b38bfa0a-fb61-40d7-a546-4497a2391816",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c4",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.497573580Z"
+  },
+  {
+    "correlationId": "dd658e6a-2cdc-404d-b854-8e115b128227",
+    "transactionId": "22900df5-b804-4b7e-9b68-be9d943601f7",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c25",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.514016124Z"
+  },
+  {
+    "correlationId": "a59765d7-afee-42f0-9162-969eeba2d914",
+    "transactionId": "fa96f2f8-7cc0-4dc3-81a0-3cf65a7f25eb",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c5",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.516660584Z"
+  },
+  {
+    "correlationId": "64a9b578-a158-4019-8759-937d2733fdd9",
+    "transactionId": "a23dbf0f-e5b6-45df-84bf-6165e0fdc9bc",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c20",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.576187331Z"
+  },
+  {
+    "correlationId": "a6f37148-bb8b-49cb-b5e4-0b9c3bfcfcde",
+    "transactionId": "0213bdd7-5688-4658-9aba-e65a54b76996",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c21",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.588796932Z"
+  },
+  {
+    "correlationId": "1bba4838-4d7c-4abc-9ac1-9915bfb382fc",
+    "transactionId": "8fbfc35e-55d2-42ee-a789-2a17d68412f2",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c3",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.646721922Z"
+  },
+  {
+    "correlationId": "ded6cbf4-3a65-4f5f-a83b-6d7f51704697",
+    "transactionId": "bef852c2-564b-4f57-ab27-f3cec49f12c8",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c13",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.650314896Z"
+  },
+  {
+    "correlationId": "c6b3ec98-4a3e-4ccb-a6f1-1492402de5db",
+    "transactionId": "8d35e6ef-6b89-46f6-986b-1b38b12e8e14",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c2",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.652791304Z"
+  },
+  {
+    "correlationId": "10e98a54-54eb-4297-a32a-f3dc39308595",
+    "transactionId": "bcb2af99-7218-4220-8641-65eb1194ecbf",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c17",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.690937060Z"
+  },
+  {
+    "correlationId": "2a0b2491-9edd-499b-b16c-a00c6788dce8",
+    "transactionId": "749a76bc-c853-42cb-95ba-dee9b9672bb8",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c9",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.751542984Z"
+  },
+  {
+    "correlationId": "fcdc605b-0299-47c8-ac22-e1a041e79661",
+    "transactionId": "d9dfc899-f1f1-4b17-bfc8-e152c71aa833",
+    "flight": "IMD100",
+    "day": "2026-12-03",
+    "user": "r1795476432-c22",
+    "valueUSD": 375,
+    "valueBRL": 2070.38,
+    "ts": "2026-11-23T23:27:19.789609865Z"
+  },
+  {
+    "correlationId": "evidencia-cid-01",
+    "transactionId": "9d5ec9d9-bcd7-467a-8ed4-8d7949614ee5",
+    "flight": "IMD200",
+    "day": "2026-12-01",
+    "user": "evidencia",
+    "valueUSD": 420.5,
+    "valueBRL": 2325.15,
+    "ts": "2026-11-23T23:28:24.550958379Z"
+  }
+]
